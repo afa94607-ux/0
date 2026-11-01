@@ -1,0 +1,6 @@
+{
+  "name": "YUKI 12 - Khmer Zodiac 12 Animals Lottery",
+  "description": "Interactive YUKI 12 lottery and gaming platform featuring live 12-animal draws, golden bowl reveals, real-time odds, interactive betting, roadmaps, and results history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
